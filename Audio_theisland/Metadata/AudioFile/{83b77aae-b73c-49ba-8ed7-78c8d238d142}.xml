@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{83b77aae-b73c-49ba-8ed7-78c8d238d142}">
+		<property name="assetPath">
+			<value>Steps_rock_01.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.29780045351473922</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{56931e98-e60b-4c4b-9cda-de85d582be3a}</destination>
+		</relationship>
+	</object>
+</objects>
